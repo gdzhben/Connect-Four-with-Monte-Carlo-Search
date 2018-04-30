@@ -1,0 +1,2 @@
+# Connect-Four-with-Monte-Carlo-Search
+The modified Connect-Four game Connect-Four in its standard form has a grid containing seven columns and six rows. In turn, players drop a disc (yellow for one player, blue for the other) into one of the columns (provided it is not full): it falls to the lowest row possible in that column. If a player gets four discs in an uninterrupted line, vertically or horizontally or diagonally, they win. If the grid is full and there is no winner, the game is drawn.
